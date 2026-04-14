@@ -1,0 +1,24 @@
+#mainTopic{
+    color: blue;
+}
+*{
+    text-align: center;
+}
+h1,h3,h5{
+    font-style: Georgia;
+}
+.par{
+    color: white;
+    background-color: cornflowerblue;
+}
+div button{
+    color: azure;
+    background-color: purple;
+}
+div button:hover{
+    color:blue;
+    background-color: yellow;
+}
+h1::first-letter{
+    color: red;
+}

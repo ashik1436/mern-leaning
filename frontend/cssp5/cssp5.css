@@ -1,0 +1,12 @@
+.parent{
+    height: 400px;
+    width: 400px;
+    border-radius: 5px;
+    
+}
+.child{
+    height: 100px;
+    width: 100px;
+    background-color: red;
+    flex: auto;
+}
