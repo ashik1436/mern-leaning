@@ -17,10 +17,10 @@ This repository contains my journey of learning full-stack development and AI/ML
 
 ## 📚 What I'm Learning
 
-* Frontend (HTML, CSS, JavaScript)
-* Backend (Node.js, Express)
-* Databases (MongoDB, SQL)
-* AI/ML (beginner stage)
+* Frontend (HTML, CSS, JavaScript)(completed)
+* Backend (Node.js, Express)(completed)
+* Databases (MongoDB, SQL)(completed)
+* AI/ML (learning)
 
 ## 🚀 Next Steps
 
